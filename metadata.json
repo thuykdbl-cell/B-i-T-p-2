@@ -1,0 +1,6 @@
+{
+  "name": "VNPT Mobile Sales",
+  "description": "Giải pháp quản lý đội ngũ bán hàng thị trường, khách hàng và đơn hàng toàn diện từ VNPT",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
